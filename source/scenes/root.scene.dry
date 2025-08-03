@@ -14,10 +14,10 @@ In a time not so far into the future, society grapples with the symptoms of the 
 subtitle: go on an adventure
 go-to: intro
 
-@another_choice_for_test
-subtitle: Test another choice
-go-to: anotherchoice
-
 @go_to_credits
 subtitle: View credits and inspirations
 go-to: credits
+
+@another_choice_for_test
+subtitle: Test another choice
+go-to: anotherchoice
