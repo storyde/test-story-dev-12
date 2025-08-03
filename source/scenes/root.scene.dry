@@ -16,7 +16,7 @@ go-to: intro
 
 @another_choice_for_test
 subtitle: Test another choice
-go-to: another_choice
+go-to: anotherchoice
 
 @go_to_credits
 subtitle: View credits and inspirations
