@@ -1,6 +1,6 @@
 title: Deeper Purpose Understanding
 subtitle: Getting to the Heart of It
-new-page: true
+new-page: false
 
 [? if purpose = "production" : Narration: Producing goods and services - but what need are you really meeting? What would people lose if your goods or services didn't exist? ?]
 
